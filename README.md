@@ -32,7 +32,7 @@ We evaluated GLM-4.6 across eight public benchmarks covering agents, reasoning, 
 
 ![bench](resources/bench_glm46.png)
 
-### GLM-4.5
+###  GLM-4.5
 
 The **GLM-4.5** series models are foundation models designed for intelligent agents. GLM-4.5 has **355** billion total
 parameters with **32** billion active parameters, while GLM-4.5-Air adopts a more compact design with **106** billion
