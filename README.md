@@ -28,7 +28,6 @@ Compared with GLM-4.5, **GLM-4.6**  brings several key improvements:
 * **Refined writing:** Better aligns with human preferences in style and readability, and performs more naturally in role-playing scenarios.
 
 
-
 We evaluated GLM-4.6 across eight public benchmarks covering agents, reasoning, and coding. Results show clear gains over GLM-4.5, with GLM-4.6 also holding competitive advantages over leading domestic and international models such as **DeepSeek-V3.1-Terminus** and **Claude Sonnet 4**.
 
 ![bench](resources/bench_glm46.png)
